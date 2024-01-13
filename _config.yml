@@ -3,7 +3,7 @@
 # Site settings
 title: My Jekyll Site
 description: A simple and elegant Jekyll site
-url: "https://yourusername.github.io"  # Replace with your GitHub Pages URL
+url: "https://hubertiwan.github.io"  # Replace with your GitHub Pages URL
 
 # GitHub Pages settings
 baseurl: ""  # Leave it empty if your site is at the root of your domain
