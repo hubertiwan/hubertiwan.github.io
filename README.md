@@ -36,7 +36,7 @@
 
  <section>
      <h2>LinkedIn</h2>
-     <p>Fell free to visit my LinkedIn profile: <a href="[https://www.linkedin.com/in/twojalinkdoin](https://www.linkedin.com/in/hubert-iwanowski-727106218/)" target="_blank">My Profile</a></p> 
+     <p>Fell free to visit my LinkedIn profile: <a href="www.linkedin.com/in/hubert-iwanowski-727106218" target="_blank">My Profile</a></p> 
      <h2>GitHub Profile</h2>
      <p>GitHub: <a href="https://github.com/hubertiwan" target="_blank">hubertiwan</a></p>
 </section>
