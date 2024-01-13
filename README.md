@@ -7,7 +7,7 @@
      <h2>About me</h2>
      <p>Hello there! I'm Hubert, a first-year cybersecurity student at AGH University in Cracow.</p>
      <p>I'm currently working on my project with my classmates. In this project, we're creating a <b>Snake</b> game which has 3 difficulty levels, and it's quite easy to play. All you have to do is to move the snake by pressing <b>W, A, S, D</b> buttons. Hopeffuly, everything will work as well as we planned at the very beggining.</p>
-      <p>Here you've got some sample of the code</p>
+      <p>Here you've got some sample of the code:</p>
       <pre>
            <code>
                while True:
