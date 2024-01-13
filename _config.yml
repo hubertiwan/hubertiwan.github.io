@@ -10,9 +10,9 @@ baseurl: ""  # Leave it empty if your site is at the root of your domain
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
 
 # Author information
 author:
