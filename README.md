@@ -6,38 +6,38 @@
  <section>
      <h2>About me</h2>
      <p>Hello there! I'm Hubert, a first-year cybersecurity student at AGH University in Cracow.</p>
-     <p>I'm currently working on my project with my classmates. In this project, we're creating a <b>Snake</b> game which has 3 difficulty levels, and it's quite easy to play. All you have to do is to move the snake by pressing <b>W, A, S, D</b> buttons. Hopeffuly, everything will work as well as we planned at the very beggining."</p>
+     <p>I'm currently working on my project with my classmates. In this project, we're creating a <b>Snake</b> game which has 3 difficulty levels, and it's quite easy to play. All you have to do is to move the snake by pressing <b>W, A, S, D</b> buttons. Hopeffuly, everything will work as well as we planned at the very beggining.</p>
       <p>Here you've got some sneak peak to the code</p>
       <pre>
            <code>
                while True:
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:  # zamykanie okienka gry
-            pygame.quit()
-            sys.exit()
-        if event.type == screenUpdate: # update co 150 milisekund
-            mainGame.update()
-        if event.type == pygame.KEYDOWN: # pygame nasluchuje klikniecia klawiatury
-            if event.key == pygame.K_w:
-                if mainGame.snake.direction.y != 1:
-                    mainGame.snake.direction = Vector2(0,-1)
-            if event.key == pygame.K_s:
-                if mainGame.snake.direction.y != -1:
-                    mainGame.snake.direction = Vector2(0, 1)
-            if event.key == pygame.K_d:
-                if mainGame.snake.direction.x != -1:
-                    mainGame.snake.direction = Vector2(1, 0)
-            if event.key == pygame.K_a:
-                if mainGame.snake.direction.x != 1:
-                    mainGame.snake.direction = Vector2(-1, 0)
-    gameScreen.fill((175, 215, 70))  # kolorowanie tła
+                   for event in pygame.event.get():
+                       if event.type == pygame.QUIT:  # zamykanie okienka gry
+                           pygame.quit()
+                           sys.exit()
+                       if event.type == screenUpdate: # update co 150 milisekund
+                           mainGame.update()
+                       if event.type == pygame.KEYDOWN: # pygame nasluchuje klikniecia klawiatury
+                           if event.key == pygame.K_w:
+                               if mainGame.snake.direction.y != 1:
+                                   mainGame.snake.direction = Vector2(0,-1)
+                           if event.key == pygame.K_s:
+                               if mainGame.snake.direction.y != -1:
+                                   mainGame.snake.direction = Vector2(0, 1)
+                           if event.key == pygame.K_d:
+                               if mainGame.snake.direction.x != -1:
+                                   mainGame.snake.direction = Vector2(1, 0)
+                           if event.key == pygame.K_a:
+                               if mainGame.snake.direction.x != 1:
+                                   mainGame.snake.direction = Vector2(-1, 0)
+                   gameScreen.fill((175, 215, 70))  # kolorowanie tła
            </code>          
       </pre>
  </section>
 
  <section>
      <h2>LinkedIn</h2>
-     <p>Fell free to visit my LinkedIn profile:<a href="[https://www.linkedin.com/in/twojalinkdoin](https://www.linkedin.com/in/hubert-iwanowski-727106218/)" target="_blank">My Profile</a></p>
+     <p>Fell free to visit my LinkedIn profile: <a href="[https://www.linkedin.com/in/twojalinkdoin](https://www.linkedin.com/in/hubert-iwanowski-727106218/)" target="_blank">My Profile</a></p>
  </section>
 
  <footer>
