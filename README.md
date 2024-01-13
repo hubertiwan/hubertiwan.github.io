@@ -1,6 +1,6 @@
 <header>
      <h1>About me</h1>
-     <p>Hello there! I'm Hubert, a first-year cybersecurity student at AGH University in Cracow.</p>        
+     <h4>Hello there! I'm Hubert, a first-year cybersecurity student at AGH University in Cracow.</h4>        
  </header>
 
  <section>
