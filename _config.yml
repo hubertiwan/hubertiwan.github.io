@@ -3,10 +3,10 @@
 # Site settings
 title: hubertiwan's GitHub Pages site
 description: This site will contain basic info for my project
-url: "https://hubertiwan.github.io"  # Replace with your GitHub Pages URL
+url: "https://hubertiwan.github.io"
 
 # GitHub Pages settings
-baseurl: "/_config.yml"  # Leave it empty if your site is at the root of your domain
+baseurl: ""
 
 # Build settings
 markdown: kramdown
