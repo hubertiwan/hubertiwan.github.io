@@ -4,17 +4,17 @@
  </header>
 
  <section>
-     <h2>O mnie</h2>
-     <p>Cześć! Jestem Hubert, studiuję cyberbezpieczeństwo na AGH w Krakowie</p>
+     <h2>About me</h2>
+     <p>Hello there! I'm Hubert,a first-year cybersecurity student at AGH University in Cracow."</p>
  </section>
 
  <section>
      <h2>LinkedIn</h2>
-     <p>Zapraszam do odwiedzenia mojego profilu na LinkedIn:</p>
-     <p><a href="[https://www.linkedin.com/in/twojalinkdoin](https://www.linkedin.com/in/hubert-iwanowski-727106218/)" target="_blank">Profil LinkedIn</a></p>
+     <p>Fell free to visit my LinkedIn profile:</p>
+     <p><a href="[https://www.linkedin.com/in/twojalinkdoin](https://www.linkedin.com/in/hubert-iwanowski-727106218/)" target="_blank">LinkedIn Profile</a></p>
  </section>
 
  <footer>
-     &copy; 2024 hubertiwan.github.io. Wszelkie prawa zastrzeżone.
+     &copy; 2024 hubertiwan.github.io. All rights reserved.
  </footer>
 
