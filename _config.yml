@@ -6,7 +6,7 @@ description: This site will contain basic info for my project
 url: "https://hubertiwan.github.io"  # Replace with your GitHub Pages URL
 
 # GitHub Pages settings
-baseurl: ""  # Leave it empty if your site is at the root of your domain
+baseurl: "/_config.yml"  # Leave it empty if your site is at the root of your domain
 
 # Build settings
 markdown: kramdown
